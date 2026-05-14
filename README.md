@@ -1,3 +1,6 @@
+
+
+---
 Hey there! 👋
 
 𝐈'𝐦 𝐁𝐚𝐃𝐫𝐞𝐱𝐃𝐚𝐓𝐚, 𝐚 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐭 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 𝐭𝐮𝐫𝐧𝐢𝐧𝐠 𝐫𝐚𝐰 𝐝𝐚𝐭𝐚 𝐢𝐧𝐭𝐨 𝐜𝐥𝐞𝐚𝐫, 𝐚𝐜𝐭𝐢𝐨𝐧𝐚𝐛𝐥𝐞 𝐢𝐧𝐬𝐢𝐠𝐡𝐭𝐬.
@@ -13,3 +16,30 @@ Hey there! 👋
 - 𝐂𝐮𝐫𝐫𝐞𝐧𝐭 𝐅𝐨𝐜𝐮𝐬: Mastering Data Visualization  
 - 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬: Pandas & NumPy  
 - 𝐇𝐨𝐛𝐛𝐢𝐞𝐬: Exploring new datasets, football, movies
+---
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+## 🛠️ Tech Stack
+
+**Core:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+**Deep Dive Tools:**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
+---
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39" alt="coding gif" />
+</div>
