@@ -1,6 +1,6 @@
 # Brahim Badre
 
-**Junior Data Analyst | Data Engineering | Business Intelligence**
+** Data Analyst | Data Engineering | Business Intelligence**
 
 Based in Morocco. Open to junior opportunities in Morocco, Europe, and international remote teams.
 
