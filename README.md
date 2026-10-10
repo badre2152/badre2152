@@ -2,7 +2,7 @@
 
 ** Data Analyst | Data Engineering | Business Intelligence**
 
-Based in Morocco. Open to junior opportunities in Morocco, Europe, and international remote teams.
+Based in Morocco. Open to junior opportunities in Morocco and international teams.
 
 I build practical data workflows with Python, SQL, PostgreSQL, and Power BI. My bootcamp projects cover web data extraction, cleaning and validation, relational data modeling, BI dashboards, regression modeling, and model explainability.
 
