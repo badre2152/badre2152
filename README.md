@@ -35,7 +35,7 @@ Data Analyst Training, CCFBS x Simplon, January to August 2026.
 
 [LinkedIn](https://www.linkedin.com/in/brahimbadre/) | [Portfolio](https://brahim-badre.is-a.dev/en) | [Email](mailto:ibrahimbadre200@gmail.com)
 
-## Contribution animation
+## 
 
 <div align="center">
   <picture>
