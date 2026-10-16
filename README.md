@@ -54,3 +54,14 @@ Interested in data quality, analytical modeling, and building dependable data wo
   <a href="https://www.linkedin.com/in/brahimbadre/">Connect on LinkedIn</a> ·
   <a href="https://brahim-badre.is-a.dev/en">Explore my portfolio</a>
 </p>
+
+
+## GitHub Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/badre2152/badre2152/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/badre2152/badre2152/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/badre2152/badre2152/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
