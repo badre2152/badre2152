@@ -3,58 +3,58 @@
 </p>
 
 <p align="center">
-  <strong>Turning raw data into reliable pipelines, clear dashboards, and actionable insights.</strong>
+  <strong>From messy source data to structured datasets and useful analysis.</strong>
 </p>
 
 <p align="center">
-  <a href="https://brahim-badre.is-a.dev/en"><img src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=vercel&logoColor=2DD4C8" alt="View my portfolio" /></a>
-  <a href="https://www.linkedin.com/in/brahimbadre/"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=2DD4C8" alt="Connect on LinkedIn" /></a>
+  <a href="https://brahim-badre.is-a.dev/en"><img src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=vercel&logoColor=2DD4C8" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/brahimbadre/"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=2DD4C8" alt="LinkedIn" /></a>
   <a href="mailto:ibrahimbadre200@gmail.com"><img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=2DD4C8" alt="Email Brahim" /></a>
 </p>
 
 <p align="center">
-  📍 Morocco &nbsp;·&nbsp; Open to junior Data Analyst / Data Engineer roles and internships in Morocco and international teams
+  Based in Morocco · Open to junior Data Analyst / Data Engineer opportunities and internships, locally and internationally
 </p>
 
-## About me
+## What I work on
 
-I'm a data analyst with a focus on data engineering, based in Morocco. I enjoy building the full data workflow: collecting and validating raw data, modeling it in PostgreSQL, and turning it into dashboards or machine learning experiments.
+I'm Brahim, a data analyst focused on **data engineering and business intelligence**. Through hands-on training projects, I build workflows that make raw data easier to trust, query, and understand.
 
-My work is grounded in hands-on bootcamp and learning projects, with an emphasis on **data quality, reproducibility, and practical business questions**.
+- **Prepare data people can use:** extract, clean, validate, and load data into structured PostgreSQL tables.
+- **Turn data into answers:** use SQL, dimensional modeling, Power BI, and DAX to explore business questions.
+- **Test ideas with evidence:** compare machine learning approaches, evaluate predictions, and inspect feature importance.
 
 ## Selected work
 
-| Project | What you'll find |
-| --- | --- |
-| **[Real Estate Data Pipeline](https://github.com/badre2152/real-estate-pipeline)** | Selenium extraction, Python ETL, validation, PostgreSQL staging and dimensional modeling, Docker |
-| **[Real Estate BI Dashboards](https://github.com/badre2152/Real-estate-dashboard-and-repport)** | Power BI reporting, Power Query transformations, DAX, and real estate market analysis |
-| **[Real Estate Machine Learning Pipeline](https://github.com/badre2152/Real-Estate-Machine-Learning-Pipeline)** | Feature engineering, regression model comparisons, evaluation workflows, and SHAP explainability |
-| **[FootVision](https://github.com/badre2152/FootVision)** | Multi-source football data processing and decision-support analytics |
+**01 · [Avito Real Estate Data Pipeline](https://github.com/badre2152/real-estate-pipeline)**
 
-> These are bootcamp or learning projects. Repositories document implemented workflows; they are not claims of production deployment or independently verified model performance.
+Property listings arrive as inconsistent source data. This project implements a Python/Selenium extraction and ETL workflow, with validation, PostgreSQL staging, and warehouse schemas designed for downstream analytics and ML.
 
-## Technical toolkit
+**02 · [Real Estate BI Dashboards](https://github.com/badre2152/Real-estate-dashboard-and-repport)**
 
-- **Data analysis & BI:** SQL, Power BI, DAX, Power Query, Excel, pandas
-- **Data engineering:** Python, PostgreSQL, ETL, data validation, web scraping, Docker
-- **Machine learning:** scikit-learn, XGBoost, SHAP
-- **Bootcamp project tools:** Apache Airflow, Snowflake, Metabase
+A reporting layer for questions about prices, locations, and listing trends. It uses Power Query, DAX, and Power BI on top of the related PostgreSQL data model.
 
-## Background
+**03 · [Real Estate Machine Learning Pipeline](https://github.com/badre2152/Real-Estate-Machine-Learning-Pipeline)**
 
-**Data Analyst Training — CCFBS × Simplon** · January–August 2026
+A regression workflow for property prices, covering feature engineering, training-only preprocessing, baseline comparisons, model evaluation, and SHAP explainability.
 
-Interested in data quality, analytical modeling, and building dependable data workflows.
+**Beyond real estate:** [FootVision](https://github.com/badre2152/FootVision) explores football analytics and multi-source data processing.
+
+*These are training and portfolio projects, not claimed production deployments. Current predictive performance is not stated without a reproducible, verified run.*
+
+## Tools I use
+
+**Analytics & BI:** SQL · Power BI · DAX · Power Query · Excel · pandas
+
+**Data engineering:** Python · PostgreSQL · ETL · Data validation · Docker · Web scraping
+
+**Machine learning:** scikit-learn · XGBoost · SHAP
+
+**Also used in bootcamp projects:** Apache Airflow · Snowflake · Metabase
+
+**Training:** Data Analyst, CCFBS × Simplon (January–August 2026).
 
 ---
-
-<p align="center">
-  <strong>Have a data opportunity or a project to discuss?</strong><br/>
-  <a href="mailto:ibrahimbadre200@gmail.com">Send me an email</a> ·
-  <a href="https://www.linkedin.com/in/brahimbadre/">Connect on LinkedIn</a> ·
-  <a href="https://brahim-badre.is-a.dev/en">Explore my portfolio</a>
-</p>
-
 
 ## GitHub Activity
 
