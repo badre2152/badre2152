@@ -1,46 +1,56 @@
-# Brahim Badre
+<p align="center">
+  <img src="./assets/profile-header.svg" alt="Brahim Badre — Data Analyst and Data Engineer" width="100%" />
+</p>
 
-** Data Analyst | Data Engineering | Business Intelligence**
+<p align="center">
+  <strong>Turning raw data into reliable pipelines, clear dashboards, and actionable insights.</strong>
+</p>
 
-Based in Morocco. Open to junior opportunities in Morocco and international teams.
+<p align="center">
+  <a href="https://brahim-badre.is-a.dev/en"><img src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=vercel&logoColor=2DD4C8" alt="View my portfolio" /></a>
+  <a href="https://www.linkedin.com/in/brahimbadre/"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=2DD4C8" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:ibrahimbadre200@gmail.com"><img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=2DD4C8" alt="Email Brahim" /></a>
+</p>
 
-I build practical data workflows with Python, SQL, PostgreSQL, and Power BI. My bootcamp projects cover web data extraction, cleaning and validation, relational data modeling, BI dashboards, regression modeling, and model explainability.
+<p align="center">
+  📍 Morocco &nbsp;·&nbsp; Open to junior Data Analyst / Data Engineer roles and internships in Morocco and international teams
+</p>
 
-## Featured projects
+## About me
 
-| Project | What it demonstrates | Technologies |
-| --- | --- | --- |
-| [Real Estate Data Pipeline](https://github.com/badre2152/real-estate-pipeline) | Extracting listings, ETL, staging, validation, and PostgreSQL data modeling | Python, Selenium, SQL, PostgreSQL, Docker |
-| [Real Estate BI Dashboards](https://github.com/badre2152/Real-estate-dashboard-and-repport) | Analytical reporting, dimensional modeling, and DAX measures | Power BI, Power Query, DAX, PostgreSQL |
-| [Real Estate Machine Learning Pipeline](https://github.com/badre2152/Real-Estate-Machine-Learning-Pipeline) | Regression workflows, feature engineering, model comparison, and explainability | Python, scikit-learn, XGBoost, SHAP |
-| [FootVision](https://github.com/badre2152/FootVision) | Football decision support and multi-source data processing | Python, data pipelines, analytics |
+I'm a data analyst with a focus on data engineering, based in Morocco. I enjoy building the full data workflow: collecting and validating raw data, modeling it in PostgreSQL, and turning it into dashboards or machine learning experiments.
 
-All listed projects were developed in a bootcamp or learning context. Their source code demonstrates implementation; it does not imply production deployment or independently verified current model performance.
+My work is grounded in hands-on bootcamp and learning projects, with an emphasis on **data quality, reproducibility, and practical business questions**.
+
+## Selected work
+
+| Project | What you'll find |
+| --- | --- |
+| **[Real Estate Data Pipeline](https://github.com/badre2152/real-estate-pipeline)** | Selenium extraction, Python ETL, validation, PostgreSQL staging and dimensional modeling, Docker |
+| **[Real Estate BI Dashboards](https://github.com/badre2152/Real-estate-dashboard-and-repport)** | Power BI reporting, Power Query transformations, DAX, and real estate market analysis |
+| **[Real Estate Machine Learning Pipeline](https://github.com/badre2152/Real-Estate-Machine-Learning-Pipeline)** | Feature engineering, regression model comparisons, evaluation workflows, and SHAP explainability |
+| **[FootVision](https://github.com/badre2152/FootVision)** | Multi-source football data processing and decision-support analytics |
+
+> These are bootcamp or learning projects. Repositories document implemented workflows; they are not claims of production deployment or independently verified model performance.
 
 ## Technical toolkit
 
-**Analytics and BI:** SQL, Power BI, DAX, Power Query, Excel, pandas
+- **Data analysis & BI:** SQL, Power BI, DAX, Power Query, Excel, pandas
+- **Data engineering:** Python, PostgreSQL, ETL, data validation, web scraping, Docker
+- **Machine learning:** scikit-learn, XGBoost, SHAP
+- **Bootcamp project tools:** Apache Airflow, Snowflake, Metabase
 
-**Data engineering:** Python, PostgreSQL, ETL, data validation, Docker, web scraping
+## Background
 
-**Training project exposure:** Apache Airflow, Snowflake, Metabase
+**Data Analyst Training — CCFBS × Simplon** · January–August 2026
 
-**Machine learning:** scikit-learn, XGBoost, SHAP
+Interested in data quality, analytical modeling, and building dependable data workflows.
 
-## Education
+---
 
-Data Analyst Training, CCFBS x Simplon, January to August 2026.
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/brahimbadre/) | [Portfolio](https://brahim-badre.is-a.dev/en) | [Email](mailto:ibrahimbadre200@gmail.com)
-
-## 
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+<p align="center">
+  <strong>Have a data opportunity or a project to discuss?</strong><br/>
+  <a href="mailto:ibrahimbadre200@gmail.com">Send me an email</a> ·
+  <a href="https://www.linkedin.com/in/brahimbadre/">Connect on LinkedIn</a> ·
+  <a href="https://brahim-badre.is-a.dev/en">Explore my portfolio</a>
+</p>
