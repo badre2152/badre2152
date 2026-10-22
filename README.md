@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" alt="Brahim Badre — Data Analyst and Data Engineer" width="100%" />
+  <img src="./assets/profile-header.svg" alt="Brahim Badre — Data Analyst and Data Engineer and Business Intelligence Developer " width="100%" />
 </p>
 
 <p align="center">
-  <strong>From messy source data to structured datasets and useful analysis.</strong>
+  <strong>Transforming raw data into usable information through various processing steps.</strong>
 </p>
 
 <p align="center">
@@ -13,34 +13,34 @@
 </p>
 
 <p align="center">
-  Based in Morocco · Open to junior Data Analyst / Data Engineer opportunities and internships, locally and internationally
+  Moroccan based · Looking for Data Analyst/ Data Engineer / Business Intelligence Developer Positions and internships, locally and abroad
 </p>
 
-## What I work on
+## The things that I work on
 
-I'm Brahim, a data analyst focused on **data engineering and business intelligence**. Through hands-on training projects, I build workflows that make raw data easier to trust, query, and understand.
+I am Brahim, and I am a Data Analyst who specializes in data engineering and business intelligence. With the help of training projects, I create workflows to transform raw data and make it reliable, analyzable, and understandable.
 
-- **Prepare data people can use:** extract, clean, validate, and load data into structured PostgreSQL tables.
-- **Turn data into answers:** use SQL, dimensional modeling, Power BI, and DAX to explore business questions.
-- **Test ideas with evidence:** compare machine learning approaches, evaluate predictions, and inspect feature importance.
+- **Prepare data for analysis: Extract, clean, validate, and load data into PostgreSQL.
+- **Analyze data: use SQL queries, dimension models, Power BI, and DAX.
+- **Explore ideas using empirical evidence: compare machine learning algorithms, assess predictions, and analyze feature importance.
 
 ## Selected work
 
 **01 · [Avito Real Estate Data Pipeline](https://github.com/badre2152/real-estate-pipeline)**
 
-Property listings arrive as inconsistent source data. This project implements a Python/Selenium extraction and ETL workflow, with validation, PostgreSQL staging, and warehouse schemas designed for downstream analytics and ML.
+Properties listings come in as disparate source data. This pipeline creates an extraction and ETL process using Python and Selenium, with validation, PostgreSQL staging and warehousing schemas suitable for analysis and ML.
 
 **02 · [Real Estate BI Dashboards](https://github.com/badre2152/Real-estate-dashboard-and-repport)**
 
-A reporting layer for questions about prices, locations, and listing trends. It uses Power Query, DAX, and Power BI on top of the related PostgreSQL data model.
+The reporting layer for price, location, and trend questions. The reporting layer utilizes Power Query, DAX, and Power BI over the PostgreSQL data model.
 
 **03 · [Real Estate Machine Learning Pipeline](https://github.com/badre2152/Real-Estate-Machine-Learning-Pipeline)**
 
-A regression workflow for property prices, covering feature engineering, training-only preprocessing, baseline comparisons, model evaluation, and SHAP explainability.
+A Regression Pipeline for Housing Prices, including feature engineering, training-only processing, comparison to baseline models, model evaluation and SHAP explanations.
 
 **Beyond real estate:** [FootVision](https://github.com/badre2152/FootVision) explores football analytics and multi-source data processing.
 
-*These are training and portfolio projects, not claimed production deployments. Current predictive performance is not stated without a reproducible, verified run.*
+*These are training and portfolio projects, NOT claims of production deployment.
 
 ## Tools I use
 
